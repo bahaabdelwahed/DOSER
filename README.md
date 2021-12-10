@@ -1,6 +1,6 @@
 # DOSER
 EDUCATION PURPOSE ONLY  !!!!!!!!!!!!!<br>
-Doser is basically an HTTP Denial of Service attack that affects websites and local machines
+Doser is basically an Denial of Service attack that affects websites and local machines
 
   [+] DDOS Websites ,Detect And BYPASS CLOUDFLARE <br>
   [+] RUN SYN FLOOD AND PING OF DEATH ATTACK<br>
