@@ -123,8 +123,8 @@ def welcome_():
  ██      ██         ██        ██  ██  ██ ██          ██      ██    ██ ██      ██  ██      
  ███████ ███████    ██        ██      ██ ███████     ██       ██████   ██████ ██   ██     
  doser.py -u <https://example.cpm>
- doser.py -syn 127.0.0.1 -p 21
- doser.py -pod 127.0.0.1 -p 21
+ doser.py -syn 127.0.0.1 -p 21 (SYN FLOOD)
+ doser.py -pod 127.0.0.1 (PING OF DEATH)
  doser.py -arp 
  """)
 
