@@ -5,11 +5,13 @@ Doser is basically an HTTP Denial of Service attack that affects websites and lo
   [+] DDOS Websites ,Detect And BYPASS CLOUDFLARE <br>
   [+] RUN SYN FLOOD AND PING OF DEATH ATTACK<br>
   [+] ARP Spoof Target in the local Network<br>
+  
   # How to install and run
-   * git clone https://github.com/bahaabdelwahed/DOSER/<br>
-   * Install used library (pip3 install <library_name>)<br>
-   * cd DOSER<br>
-   * chmod +x doser.py<br>
+      
+      * git clone https://github.com/bahaabdelwahed/DOSER/<br>
+      * Install used library (pip3 install <library_name>)<br>
+      * cd DOSER<br>
+      * chmod +x doser.py<br>
   # USAGE : 
    python3 doser.py -u https://example.com <br>
    run this command against website doser tell you if the site use cloudflare and start attack with <br>
