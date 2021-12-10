@@ -25,4 +25,20 @@ Doser is basically an Denial of Service attack that affects websites and local m
        
        doser.py -arp <br>
        Run GUI console that ask for local ip adress to start arp spoof<br>
+       
+   
+   
+       WHANT TO USE PROXY Make sure to update this :
+       proxies ={
+            'https': 'https://140.227.69.170:6000',
+           'https': 'https://3.12.95.129:80',
+           'https': 'https://167.99.174.59:80',
+           'https':'https://92.204.251.170:1080',
+           'https':'https://186.225.45.13:80',
+           'https':'https://140.82.5.38:80',
+           'https':'https://188.126.90.10:8888',
+           'https':'https://140.82.5.38:1080',
+               }
+       and to change proxies=False in ligne 71 to proxies=proxies
+
    
