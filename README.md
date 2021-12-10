@@ -28,7 +28,7 @@ Doser is basically an Denial of Service attack that affects websites and local m
        
    
    
-       WHANT TO USE PROXY Make sure to update this :
+       WANT TO USE PROXY Make sure to update this :
        proxies ={
             'https': 'https://140.227.69.170:6000',
            'https': 'https://3.12.95.129:80',
