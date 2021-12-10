@@ -13,12 +13,16 @@ Doser is basically an HTTP Denial of Service attack that affects websites and lo
       * cd DOSER<br>
       * chmod +x doser.py<br>
   # USAGE : 
-   python3 doser.py -u https://example.com <br>
-   run this command against website doser tell you if the site use cloudflare and start attack with <br>
-   python3  doser.py -syn 127.0.0.1 -p 21 <br>
-   run syn flood attack against 127.0.0.1:21 this option use scapy to send multiple request in multiple thread<br>
-   doser.py -pod 127.0.0.1 <br>
-   Multiple request  against ICMP protocole<br>
-   doser.py -arp <br>
-   Run GUI console that ask for local ip adress to start arp spoof<br>
+  
+       python3 doser.py -u https://example.com <br>
+       run this command against website doser tell you if the site use cloudflare and start attack with <br>
+       
+       python3  doser.py -syn 127.0.0.1 -p 21 <br>
+       run syn flood attack against 127.0.0.1:21 this option use scapy to send multiple request in multiple thread<br>
+       
+       doser.py -pod 127.0.0.1 <br>
+       Multiple request  against ICMP protocole<br>
+       
+       doser.py -arp <br>
+       Run GUI console that ask for local ip adress to start arp spoof<br>
    
